@@ -2,7 +2,7 @@
 
 ---
 
-## Data Mining project
+## Data Mining project 2
 
 dataset from: [kaggle website](https://www.kaggle.com/datasets/ankushpanday2/heart-attack-prediction-in-indonesia)
 
