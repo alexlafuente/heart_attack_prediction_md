@@ -1,0 +1,12 @@
+Dataset repository:
+
+https://www.kaggle.com/datasets/mojtaba142/hotel-booking
+
+
+
+
+Original article:
+
+Ana Almeida, Nuno Antonio, Lluis Nunes (2019). Hotel booking demand datasets. Retrieved from: https://www.sciencedirect.com/science/article/pii/S2352340918315191. [Accessed on 23 March 2025].
+
+
